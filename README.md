@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sparklmonkey
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning ASP.NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ASP.NET and Unity Game Development
 
 <!---
 Sparklmonkey/Sparklmonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
